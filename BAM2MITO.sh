@@ -23,7 +23,7 @@ set -euo pipefail
 # =============================================================================
 
 # Sample identifier — used as a prefix for every output file.
-PREFIX="ECE25-427-OHD"
+PREFIX="your_bam_file_prefix"
 
 # Input BAM file: base-quality score recalibrated alignment (from GATK BQSR
 # or equivalent) covering the full genome or exome including chrM.
